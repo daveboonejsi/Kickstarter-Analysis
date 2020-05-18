@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-class exercise
+###Challenge
+ An Analysis of Kickstarter Campaigns
