@@ -28,7 +28,7 @@ Some conclusions:
 *Failure rates seem to raise towards the end of summer, then go down towards the end of the year.
 *Cancellations don't really factor in as there are not too many.  There appears also to be some missing data for some months.
 
-![](Kickstarter_Outcomes_by_Launch_Date(1).png)
+![](Kickstarter_Outcomes_by_Launch_Date.png)
 
 
 
